@@ -33,17 +33,6 @@ Currently focused on strengthening my programming fundamentals, problem-solving 
   <img src="https://skillicons.dev/icons?i=sql,postgres,fastapi,docker,aws,js,react,pytorch" />
 </p>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhirencodes-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirencodes-create&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirencodes-create&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🔗 Connect With Me
 
 <p align="center">
