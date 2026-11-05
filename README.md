@@ -20,9 +20,6 @@ On the roadmap
 
 <img src="https://skillicons.dev/icons?i=react,ts,docker,aws,discord" alt="future skills" />
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhirenbuilds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" /> <img height="170" src="https://streak-stats.demolab.com?user=dhirenbuilds&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" /> </div>
-<div align="center">
-
 <a href="https://x.com/dhirenbuilds"><img src="https://img.shields.io/badge/Follow%20me%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> <a href="https://www.linkedin.com/in/dhiren-s-3a9564449/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
